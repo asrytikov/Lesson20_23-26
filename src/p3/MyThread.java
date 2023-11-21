@@ -1,10 +1,6 @@
-package p2;
+package p3;
 
-public class MyThread extends Thread{
-
-    public MyThread(String name) {
-        super(name);
-    }
+public class MyThread implements Runnable{
 
     @Override
     public void run() {

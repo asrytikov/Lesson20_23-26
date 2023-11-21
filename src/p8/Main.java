@@ -1,4 +1,4 @@
-package p7;
+package p8;
 
 public class Main {
 
